@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scottfrazier97
-- 👀 I’m interested in becoming the best data engineer that I can be. 
+- 👀 I’m interested in becoming the best data scientist that I can be. 
 - 🌱 I’m currently learning how to efficiently use programming, and statistics to help companies better understand their data, and improve the company's performance with my actionable insights.
 - 💞️ I’m looking to collaborate on just about anything! I am eager to garner as much experience not only with code, but working in a team setting! 
-- 📫 How to reach me: You can email me at scottfrazier97@yahoo.com, or message me on my LinkedIn profile: https://www.linkedin.com/in/scott-frazier-7812031a1/
+- 📫 How to reach me: You can email me at fraziersc1997@gmail.com, or message me on my LinkedIn profile: https://www.linkedin.com/in/scott-frazier-7812031a1/
