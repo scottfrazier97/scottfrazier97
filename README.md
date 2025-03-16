@@ -4,4 +4,4 @@ I am open to collaboration on a variety of projects and eager to gain experience
 
 How to reach me:
 Email: fraziersc1997@gmail.com
-LinkedIn: Scott Frazier
+LinkedIn: https://www.linkedin.com/in/scott-frazier-7812031a1/
